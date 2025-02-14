@@ -1,4 +1,4 @@
-# Linear Regression Analysis
+# Linear Regression Analysis on Ecommerce Data
 
 ## Project Overview
 Amazon Cloths sells clothing online, where customers visit the store, consult with a personal stylist, and then place orders either through a mobile app or a website. The company aims to determine whether to prioritize improving the mobile app experience or the website based on customer spending behavior.
